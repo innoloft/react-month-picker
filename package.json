@@ -1,8 +1,8 @@
 {
-  "name": "react-month-picker",
+  "name": "@innoloft/react-month-picker",
   "description": "Month-Picker Component offers a popup month selection panel with responsive layouts.",
-  "url": "https://github.com/nickeljew/react-month-picker",
-  "homepage": "https://github.com/nickeljew/react-month-picker",
+  "url": "https://github.com/innoloft/react-month-picker",
+  "homepage": "https://github.com/innoloft/react-month-picker",
   "keywords": [
     "month-select",
     "month-option",
@@ -11,8 +11,8 @@
     "react-component",
     "react"
   ],
-  "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
-  "version": "2.2.1",
+  "author": "Innoloft",
+  "version": "3.0.0",
   "license": "MIT",
   "private": false,
   "main": "lib/month-picker.js",
@@ -56,6 +56,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nickeljew/react-month-picker.git"
+    "url": "https://github.com/innoloft/react-month-picker.git"
   }
 }
