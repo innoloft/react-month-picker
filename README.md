@@ -222,7 +222,7 @@ npm run build
 
 ## Changelogs
 
-### v3.0.0
+### v2.3.0
 
 - add support for React 18
 

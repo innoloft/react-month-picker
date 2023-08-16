@@ -12,7 +12,7 @@
     "react"
   ],
   "author": "Innoloft",
-  "version": "3.0.0",
+  "version": "2.3.0",
   "license": "MIT",
   "private": false,
   "main": "lib/month-picker.js",
