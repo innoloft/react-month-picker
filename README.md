@@ -214,6 +214,9 @@ npm run build
 
 ## Changelogs
 
+### v3.0.0
+- add support for React 18
+
 #### v2.2.0
 - add property "autoRange"
 
